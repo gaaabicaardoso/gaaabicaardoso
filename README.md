@@ -56,4 +56,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=BORÁ+CODAR" alt="Typing SVG" /></a>
 </p>
 
-<center><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/></center>
+<p align="center">
+    <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/>
+</p>
